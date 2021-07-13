@@ -1,0 +1,20 @@
+{
+  "name": "kube-echo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "tap": "^15.0.9"
+  }
+}
