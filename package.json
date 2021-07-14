@@ -6,7 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {},
+  "scripts": {
+    "format": "prettier --write ."
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
